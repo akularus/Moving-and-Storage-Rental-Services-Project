@@ -1,4 +1,4 @@
-# DMDD-Moving-and-Storage-Rental-Services-Project
+# Moving-and-Storage-Rental-Services-Project
 🚚 Moving and Storage Rental Services-Database - GROUP 1
 The Moving and Storage Rental Services - Inventory Management System is a comprehensive database solution tailored to meet the needs of businesses operating in the Moving and Storage Rental Services industry. This system is designed to optimize inventory management, enhance customer experiences, and streamline various aspects of the rental and storage operations.
 
